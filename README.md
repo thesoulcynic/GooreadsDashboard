@@ -1,5 +1,5 @@
 # GooreadsDashboard
-A Dashboard using Tableau For a Goodreads Datsdet
+A Dashboard using Tableau For a Goodreads Dataset
 📚 Excited to share my latest data project! 📊🚀 and it is
 
 🔍 As an avid reader and data enthusiast, I decided to combine my interests and create a Goodreads Books Analysis Dashboard using Tableau. 📈📖
